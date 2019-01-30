@@ -1,0 +1,13 @@
+{
+   "token": "NTM5OTU0ODI3MDgyMzM0MjA4.DzJ3sA.sKBG3Mb4RgWxo8qhJmAy8VZ3Zmk",
+   "vultr": "0.007",
+   "linode": "0.015",
+   "digitalocean": "0.007",
+   "conoha": "0.015",
+   "zcloud": "0.015",
+   "googlecloud": "0.02",
+   "amazon": "0.007",
+   "alibaba": "0.01",
+   "rackspace": "0.03",
+   "upcloud": "0.015"
+}
